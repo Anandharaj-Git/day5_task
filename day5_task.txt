@@ -1,0 +1,24 @@
+{
+    "name": "Anandharaj",
+    "email": "anandharajnsa2000@email.com",
+    "phone": "9597325353",
+    "address": "3/79, erusagounder street, elampillai Post, salem(DT)",
+    "summary": "junior software engineer with a passion for creating innovative web applications. Skilled in full-stack development, JavaScript, React, Node.js, and relational databases. Strong problem-solving and communication skills.",
+    "education": [
+        {
+            "degree": "Bachelor of engineering in metallurgical engineering",
+            "university": "AICTE",
+            "year": "2019-2022"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "SQL",
+        "Git",
+        "RESTful APIs",
+        "Problem Solving",
+        "Communication"
+    ],
+    "languages": ["English"],
+    "interests": ["Web Development", "Open Source Projects", "Hiking", "Photography"]
+}
